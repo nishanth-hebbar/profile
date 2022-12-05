@@ -1,0 +1,109 @@
+body {
+  text-align: center;
+  background-color: lightyellow;
+  line-height: 2;
+  color: rgb(64, 84, 30);
+  margin: 0px;  
+}
+
+  .table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+hr {
+    border: dotted #7388b4 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+}
+.text {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    text-decoration: solid;
+    font-size: 500%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke;
+}
+
+.bio {
+    position: relative;
+    padding: 45px;
+    text-align: center;
+    font-family:sans-serif;
+    border-radius: 50%;
+    font-size: large;
+    
+}
+.qualify {
+    
+    font-family:sans-serif;
+    text-align: center;
+    font-size:large;
+    padding: 20px;
+   
+
+   
+}
+.skills {
+    font-family:sans-serif;
+    text-align:center;
+    table-layout: auto;
+    border-collapse: separate;
+    padding: 20px;
+    
+   
+}
+.btn {
+    background: #e1f009;
+    background-image: -webkit-linear-gradient(top, #e1f009, #575135);
+    background-image: -moz-linear-gradient(top, #e1f009, #575135);
+    background-image: -ms-linear-gradient(top, #e1f009, #575135);
+    background-image: -o-linear-gradient(top, #e1f009, #575135);
+    background-image: linear-gradient(to bottom, #e1f009, #575135);
+    -webkit-border-radius: 18;
+    -moz-border-radius: 18;
+    border-radius: 18px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #f5f50e;
+    background-image: -webkit-linear-gradient(top, #f5f50e, #f5f50e);
+    background-image: -moz-linear-gradient(top, #f5f50e, #f5f50e);
+    background-image: -ms-linear-gradient(top, #f5f50e, #f5f50e);
+    background-image: -o-linear-gradient(top, #f5f50e, #f5f50e);
+    background-image: linear-gradient(to bottom, #f5f50e, #f5f50e);
+    text-decoration: none;
+  }
+  a {
+    margin:10px 20px;
+    color:#40541E;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #EAF6F6;
+
+  }
+  .bottom-container {
+    background-color:olive ;
+    padding: 50px 0 20px;
+    margin: 100px 0 0 0;
+  }
+
+
+
+
+
